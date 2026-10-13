@@ -141,3 +141,9 @@ SESSION.vim
 *.old
 *.orig
 *.rej
+
+# ---------- Local Secrets (NEVER commit) ----------
+.gh_token
+.github_token
+*.pem
+secrets/
